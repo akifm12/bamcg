@@ -1,0 +1,16 @@
+# Environment & secrets
+.env
+config.php
+database.php
+db.php
+
+# User uploads
+uploads/
+storage/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
